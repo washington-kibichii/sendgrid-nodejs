@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'https://widget-test-radio-africa.herokuapp.com/';
+exports.url = 'https://widget-test-radio-africa.herokuapp.com';
 
 exports.senderEmail = 'info@the-star.co.ke';
 exports.senderName = 'The Star - Kenya';
